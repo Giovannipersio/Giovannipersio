@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Giovannipersio/Giovannipersio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about **Process Consulting**, **Innovation**, and **Technology**. With a background in **Production Engineering** and currently studying **Computer Science**, I love working at the intersection of these fields, whether it's developing software, improving processes, or exploring new technologies, I'm always excited to learn and contribute.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working at **CDMEC** as a scholarship holder in the project **Sectorial Innovation Challenges in Metalworking**
+- 📚 Pursuing a **specialization in AI and Data Science** at UFES
+- 🎓 Background in **Production Engineering** and studying **Computer Science**
+- 🌱 Learning **German** and improving my **English** skills
+- ⚙️ Skilled in **Python**, **Power BI**, and **C**
+- 📊 Interested in **IoT in Industry** and **Data Visualization**
+
+
+### 📫 How to Reach Me
+
+Feel free to reach out if you want to chat about tech, engineering, or anything else!
+
+- LinkedIn: https://www.linkedin.com/in/giovannipersio7/
+- Email: giovanni.persio@outlook.com
+
+Thanks for stopping by
